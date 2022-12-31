@@ -1,0 +1,26 @@
+{
+	"id": "256da3bc-c3b4-4505-a3b7-92959d2f8a14",
+	"createdAt": "2022-12-20T20:02:11.554Z",
+	"createdBy": "admin",
+	"headers": [],
+	"details": {
+		"subject": {},
+		"headers": [],
+		"username": "gunnar",
+		"password": "231ecf8a387ba659216173",
+		"secret": ""
+	},
+	"azureRelayDetails": {
+		"ns": "",
+		"path": "",
+		"keyRule": "",
+		"key": ""
+	},
+	"name": "SAP Template Basic Auth Gunnar",
+	"description": null,
+	"type": "basic",
+	"useCloudConnector": false,
+	"cloudConnectorType": null,
+	"ver": null,
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

@@ -1,0 +1,89 @@
+{
+	"id": "015382f5-cc2a-4a96-83ec-093fac365bef",
+	"createdAt": "2022-12-20T19:34:19.209Z",
+	"createdBy": "gunnar",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/test-artifacts.git"
+	},
+	"name": "Testing",
+	"description": null,
+	"ver": "22.12.31.1145",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "e8aeba45-5bd4-4519-96ec-227e3cff69a7",
+			"application": "babi_user_details",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [
+		{
+			"id": "e25c6670-0761-4a3b-991d-9f0226d1b191",
+			"name": "Function Module: BAPI_USER_GET_DETAIL - Read User Details",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
+			"name": "subs",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "01074fdc-a7f4-45f1-8a2c-cb505db1b7c5",
+			"name": "wf",
+			"description": null
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [
+		{
+			"id": "256da3bc-c3b4-4505-a3b7-92959d2f8a14",
+			"name": "SAP Template Basic Auth Gunnar",
+			"description": null
+		}
+	],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "efca9a16-3271-4e4a-ba77-ce3a1255dfac",
+			"name": "PWA",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [
+		{
+			"id": "a41ad86d-b091-478a-a18d-3a14da1e77ab",
+			"name": "SAP Template",
+			"description": "Neptune Template System"
+		}
+	],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [
+		{
+			"id": "4f6ef01d-fa65-4d63-bb77-a512e3b3a125",
+			"title": "Test",
+			"subTitle": null
+		}
+	],
+	"connector": [],
+	"events": [],
+	"media_library": []
+}

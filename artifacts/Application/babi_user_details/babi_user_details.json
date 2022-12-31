@@ -1,0 +1,87 @@
+{
+	"id": "e8aeba45-5bd4-4519-96ec-227e3cff69a7",
+	"createdAt": "2022-12-20T20:06:01.177Z",
+	"createdBy": "admin",
+	"objects": [
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "31387185-cef0-4b27-f022-100d10cabe46",
+					"fieldName": "oRestAPI",
+					"fieldParent": 99999,
+					"fieldType": "neptune.restapi",
+					"script": "",
+					"customComponent": false,
+					"restSource": "e25c6670-0761-4a3b-991d-9f0226d1b191",
+					"restOperation": "6b12c811-568f-4a41-9f3f-76a6809026c7",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "65143f84-c3f4-421e-b795-02748f58e71d",
+					"fieldName": "oTypescript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "apioRestAPI();",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "22.12.20.218",
+	"application": "babi_user_details",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": false,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "1.108",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"apis": [
+		{
+			"id": "e25c6670-0761-4a3b-991d-9f0226d1b191",
+			"name": "Function Module: BAPI_USER_GET_DETAIL - Read User Details",
+			"ver": "22.12.20.215"
+		}
+	],
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

@@ -1,0 +1,133 @@
+{
+	"id": "4f6ef01d-fa65-4d63-bb77-a512e3b3a125",
+	"createdAt": "2022-12-31T09:20:07.048Z",
+	"createdBy": "gunnar",
+	"tasks": [
+		{
+			"id": "object-2622a1d4-aff7-41d7-d2ae-9a6e03181b0f",
+			"taskType": "UserTask",
+			"inboxApp": "",
+			"title": "User Task",
+			"subTitle": "",
+			"userDeterminationLocal": "",
+			"taskAction": "",
+			"scriptId": "",
+			"runScriptInFork": false,
+			"customApproverScript": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
+			"customApproverScriptRunSubs": false,
+			"enableForward": false,
+			"enableQuery": false,
+			"enableNotification": false,
+			"taskNotification": "",
+			"senderEmail": "",
+			"enableSave": false,
+			"enableApprove": false,
+			"enableReject": false
+		}
+	],
+	"translation": [],
+	"flowEditor": {
+		"objects": [
+			{
+				"id": "object-27fb2bac-b5ef-4364-8c00-0ca253a76e56",
+				"name": "Start",
+				"description": "",
+				"templateId": "Start",
+				"templateName": "Start",
+				"typeCSS": "start",
+				"typeImage": "start",
+				"group": "",
+				"input": [],
+				"object": {},
+				"output": [
+					{
+						"name": "output",
+						"value": "",
+						"grouping": "Output",
+						"parent": "Output",
+						"show_script": false,
+						"show_label": false,
+						"show_button": false,
+						"id": "output-944efb48-244a-4992-f3df-da54ad4fa2b3"
+					}
+				],
+				"connections": [
+					{
+						"id": "link-660139e9-1d0a-4d0f-a21e-3444db4fa52e",
+						"source": "output-944efb48-244a-4992-f3df-da54ad4fa2b3",
+						"target": "input-3bedbdd4-a945-4fdb-89cd-d12c5f9471db"
+					}
+				],
+				"posX": 718,
+				"posY": 65
+			},
+			{
+				"id": "object-2622a1d4-aff7-41d7-d2ae-9a6e03181b0f",
+				"name": "User Task",
+				"description": "",
+				"templateId": "UserTask",
+				"templateName": "User Task",
+				"typeCSS": "usertask",
+				"typeImage": "task",
+				"group": "task",
+				"input": [
+					{
+						"name": "input",
+						"value": "",
+						"grouping": "Input",
+						"parent": "Input",
+						"show_script": false,
+						"show_label": false,
+						"show_button": false,
+						"id": "input-3bedbdd4-a945-4fdb-89cd-d12c5f9471db"
+					}
+				],
+				"object": {},
+				"output": [
+					{
+						"name": "output",
+						"value": "",
+						"grouping": "Output",
+						"parent": "Output",
+						"show_script": false,
+						"show_label": false,
+						"show_button": false,
+						"id": "output-529c2fe5-4825-483b-9589-b6e857ff2dce"
+					}
+				],
+				"connections": [
+					{
+						"id": "link-660139e9-1d0a-4d0f-a21e-3444db4fa52e",
+						"source": "output-944efb48-244a-4992-f3df-da54ad4fa2b3",
+						"target": "input-3bedbdd4-a945-4fdb-89cd-d12c5f9471db"
+					}
+				],
+				"posX": 718,
+				"posY": 289,
+				"customApproverScriptRunSubs": false,
+				"customApproverScript": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
+				"enableForward": false
+			}
+		],
+		"connections": [
+			{
+				"id": "link-660139e9-1d0a-4d0f-a21e-3444db4fa52e",
+				"source": "output-944efb48-244a-4992-f3df-da54ad4fa2b3",
+				"sourceNode": "object-27fb2bac-b5ef-4364-8c00-0ca253a76e56",
+				"target": "input-3bedbdd4-a945-4fdb-89cd-d12c5f9471db",
+				"targetNode": "object-2622a1d4-aff7-41d7-d2ae-9a6e03181b0f"
+			}
+		]
+	},
+	"title": "Test",
+	"subTitle": null,
+	"daysUntilOverdue": 1,
+	"daysNotificationInterval": null,
+	"enableNotifications": false,
+	"omitFriday": false,
+	"omitSaturday": false,
+	"omitSunday": false,
+	"icon": null,
+	"ver": "22.12.31.1055",
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

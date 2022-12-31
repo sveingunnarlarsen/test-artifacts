@@ -1,0 +1,20 @@
+{
+	"id": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
+	"createdAt": "2022-12-31T09:39:15.270Z",
+	"createdBy": "gunnar",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "subs",
+	"ver": "22.12.31.1039",
+	"description": null,
+	"content": "console.log(\"Running\");",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "01074fdc-a7f4-45f1-8a2c-cb505db1b7c5",
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

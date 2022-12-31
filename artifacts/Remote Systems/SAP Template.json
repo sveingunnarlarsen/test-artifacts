@@ -1,0 +1,30 @@
+{
+	"id": "a41ad86d-b091-478a-a18d-3a14da1e77ab",
+	"createdAt": "2022-12-20T20:02:22.941Z",
+	"createdBy": "admin",
+	"auth": [
+		{
+			"role": "DEF",
+			"apiAuth": "256da3bc-c3b4-4505-a3b7-92959d2f8a14",
+			"authName": "SAP Template Basic Auth Gunnar",
+			"authDesc": "",
+			"id": "7a7dc601-becf-4458-8765-6e4b7d512fcf"
+		}
+	],
+	"endpoints": [],
+	"url": "https://template.neptune-software.com",
+	"name": "SAP Template",
+	"ver": null,
+	"description": "Neptune Template System",
+	"role": null,
+	"username": null,
+	"password": "",
+	"type": "SAP",
+	"sapClient": "800",
+	"useClientDeploy": false,
+	"token": "",
+	"monitoringName": null,
+	"monitoringEnabled": false,
+	"tlsAllowUntrusted": true,
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}
