@@ -13260,7 +13260,7 @@
 	"documentation": [],
 	"name": "Function Module: BAPI_USER_GET_DETAIL - Read User Details",
 	"endpoint": "http://template.neptune-software.com/neptune/api/dynamic//neptune/cl_dr_lib_src_func_x/bapi_user_get_detail/",
-	"ver": "22.12.20.215",
+	"ver": "23.1.10.921",
 	"version": "1.0",
 	"description": null,
 	"mediaType": null,

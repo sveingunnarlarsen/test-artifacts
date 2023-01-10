@@ -80,7 +80,7 @@
 		{
 			"id": "e25c6670-0761-4a3b-991d-9f0226d1b191",
 			"name": "Function Module: BAPI_USER_GET_DETAIL - Read User Details",
-			"ver": "22.12.20.215"
+			"ver": "23.1.10.921"
 		}
 	],
 	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"

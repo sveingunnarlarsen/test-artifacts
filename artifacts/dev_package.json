@@ -7,7 +7,7 @@
 	},
 	"name": "Testing",
 	"description": null,
-	"ver": "22.12.31.1145",
+	"ver": "23.1.9.1426",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -33,9 +33,19 @@
 			"id": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
 			"name": "subs",
 			"description": null
+		},
+		{
+			"id": "08884267-c20c-4ff1-b273-0433fac745d2",
+			"name": "ImportData",
+			"description": null
 		}
 	],
 	"jsscript_group": [
+		{
+			"id": "e9cac564-e239-46be-80c9-93747ac16d4c",
+			"name": "Testing",
+			"description": null
+		},
 		{
 			"id": "01074fdc-a7f4-45f1-8a2c-cb505db1b7c5",
 			"name": "wf",
