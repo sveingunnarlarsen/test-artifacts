@@ -7,7 +7,7 @@
 	},
 	"name": "Testing",
 	"description": null,
-	"ver": "23.1.9.1426",
+	"ver": "23.1.10.1426",
 	"enableCICD": true,
 	"apps": [
 		{
