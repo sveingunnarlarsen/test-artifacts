@@ -1,0 +1,79 @@
+{
+	"id": "ff0664cd-1d9b-4037-90f4-1e52d12b974d",
+	"createdAt": "2023-01-14T14:36:07.692Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "01111f79-152f-4d49-9402-71a890e9478f",
+					"fieldName": "oTypescript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "model",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "4bfb821b-9349-4c3e-f704-9947654b50d6",
+					"fieldName": "oMultiModel",
+					"fieldParent": 99999,
+					"fieldType": "neptune.model",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "23.1.14.1536",
+	"application": "test_app_model_roles2",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": false,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"apis": [],
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

@@ -7,12 +7,30 @@
 	},
 	"name": "Testing",
 	"description": null,
-	"ver": "23.1.10.1426",
+	"ver": "23.1.10.158",
 	"enableCICD": true,
 	"apps": [
 		{
+			"id": "ff0664cd-1d9b-4037-90f4-1e52d12b974d",
+			"application": "test_app_model_roles2",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "fd725232-284c-4b13-a8e4-a7a5a1ed5a1b",
+			"application": "testselectdialogbindings",
+			"title": "",
+			"description": ""
+		},
+		{
 			"id": "e8aeba45-5bd4-4519-96ec-227e3cff69a7",
 			"application": "babi_user_details",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "b4b80ac9-2424-4a53-a73a-e06a48c9f01e",
+			"application": "use_cc_test",
 			"title": "",
 			"description": ""
 		}
@@ -32,6 +50,11 @@
 		{
 			"id": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
 			"name": "subs",
+			"description": null
+		},
+		{
+			"id": "b14539b7-d7ca-493c-948b-1dafa792a91a",
+			"name": "testLockedScript",
 			"description": null
 		},
 		{
