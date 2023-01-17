@@ -23,6 +23,12 @@
 			"description": ""
 		},
 		{
+			"id": "f08efd60-a214-4d56-a0f0-159d49c080d6",
+			"application": "dussmanntesting",
+			"title": "",
+			"description": ""
+		},
+		{
 			"id": "e8aeba45-5bd4-4519-96ec-227e3cff69a7",
 			"application": "babi_user_details",
 			"title": "",
@@ -31,6 +37,12 @@
 		{
 			"id": "b4b80ac9-2424-4a53-a73a-e06a48c9f01e",
 			"application": "use_cc_test",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "44cea581-3398-4268-ac6d-1cd414443010",
+			"application": "textwithbindings",
 			"title": "",
 			"description": ""
 		}
@@ -55,6 +67,11 @@
 		{
 			"id": "b14539b7-d7ca-493c-948b-1dafa792a91a",
 			"name": "testLockedScript",
+			"description": null
+		},
+		{
+			"id": "93162f79-2a91-49ac-b3e2-45948ae2fb99",
+			"name": "Testing",
 			"description": null
 		},
 		{

@@ -1,0 +1,139 @@
+{
+	"id": "f08efd60-a214-4d56-a0f0-159d49c080d6",
+	"createdAt": "2023-01-16T09:26:11.091Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "84a9aa48-bc78-417f-b254-4e556b7cc224",
+			"fieldName": "oButton",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Button",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "press",
+					"grouping": "Events",
+					"value": "Anonymous Function",
+					"script": "file://event/sap.m.Button/oButton/press.script",
+					"language": "typescript",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
+			"fieldNo": "c59ee08a-8478-447b-ef24-cea3f06df797",
+			"fieldName": "oButton1",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Button",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": []
+		},
+		{
+			"fieldNo": "00779195-ff5b-4a42-c34a-0bbe475d9011",
+			"fieldName": "oColumn",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Column",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": []
+		},
+		{
+			"fieldNo": "13b8e70d-c1bc-486c-f46c-a5861b3851d5",
+			"fieldName": "oObjectNumber",
+			"fieldParent": 0,
+			"fieldType": "sap.m.ObjectNumber",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "unit",
+					"grouping": "Properties",
+					"value": "test",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
+			"fieldNo": "e05b470e-cef5-451d-d45c-1ee640356873",
+			"fieldName": "oSwitch",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Switch",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "customTextOff",
+					"grouping": "Properties",
+					"value": "dfgffgdfg",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "23.1.16.1050",
+	"application": "dussmanntesting",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"apis": [],
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

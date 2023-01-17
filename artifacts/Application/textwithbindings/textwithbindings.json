@@ -1,0 +1,166 @@
+{
+	"id": "44cea581-3398-4268-ac6d-1cd414443010",
+	"createdAt": "2023-01-16T20:37:43.839Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "f3e2d755-4932-4aa5-ab3e-c0e626a30e45",
+			"fieldName": "oDynamicPage",
+			"fieldParent": 0,
+			"fieldType": "sap.f.DynamicPage",
+			"script": "",
+			"customComponent": false,
+			"bindingValue": "Generic Object",
+			"bindingType": "u",
+			"bindingSource": "P9",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "c86b367f-17b6-459f-c760-08184306ed9c",
+					"fieldName": "oPanel",
+					"fieldParent": "f3e2d755-4932-4aa5-ab3e-c0e626a30e45",
+					"fieldType": "sap.m.Panel",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "3ed78648-7fe5-4ef5-ba15-0b4a9ed06480",
+							"fieldName": "oList",
+							"fieldParent": "c86b367f-17b6-459f-c760-08184306ed9c",
+							"fieldType": "sap.m.List",
+							"script": "",
+							"customComponent": false,
+							"bindingType": "h",
+							"bindingSource": "DataModel",
+							"bindingParentID": "00b74a7e-b494-48ba-8402-6c47faea92e8",
+							"modelPath": "oMultiModel>/test",
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": [
+								{
+									"fieldNo": "7925f3c6-a309-42df-a5ba-bb830342d360",
+									"fieldName": "oStandardListItem",
+									"fieldParent": "3ed78648-7fe5-4ef5-ba15-0b4a9ed06480",
+									"fieldType": "sap.m.StandardListItem",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "title",
+											"grouping": "Properties",
+											"value": "asdfasdf {oMultiModel>test}",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "00b74a7e-b494-48ba-8402-6c47faea92e8",
+					"fieldName": "oMultiModel",
+					"fieldParent": 99999,
+					"fieldType": "neptune.model",
+					"script": "",
+					"customComponent": false,
+					"bindingValue": "Generic Array",
+					"bindingType": "h",
+					"bindingSource": "P9",
+					"dataModel": [
+						{
+							"id": "43668c08-cba3-475a-8510-e5533f33237b",
+							"parent": "7ad4649b-4c9e-41ba-8ef7-653b80b40747",
+							"name": "test",
+							"objectType": "string",
+							"description": "",
+							"isParent": false
+						},
+						{
+							"id": "7ad4649b-4c9e-41ba-8ef7-653b80b40747",
+							"parent": "",
+							"name": "test",
+							"objectType": "array",
+							"description": "",
+							"isParent": true
+						}
+					],
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "ba2d0d71-c49e-4e7d-db9d-a3cf43436427",
+					"fieldName": "oTypescript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/oTypescript.script",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "23.1.16.2155",
+	"application": "textwithbindings",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": true,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"apis": [],
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}
