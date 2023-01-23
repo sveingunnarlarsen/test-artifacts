@@ -60,18 +60,33 @@
 	"dictionary": [],
 	"jsclass": [
 		{
+			"id": "e358dfd4-043f-47e9-8362-8c9da893e888",
+			"name": "test",
+			"description": null
+		},
+		{
+			"id": "d5831d1d-e6df-49c1-93c2-e345d3fadc8c",
+			"name": "Testing2",
+			"description": null
+		},
+		{
 			"id": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
 			"name": "subs",
 			"description": null
 		},
 		{
-			"id": "b14539b7-d7ca-493c-948b-1dafa792a91a",
-			"name": "testLockedScript",
+			"id": "93162f79-2a91-49ac-b3e2-45948ae2fb99",
+			"name": "Testing",
 			"description": null
 		},
 		{
-			"id": "93162f79-2a91-49ac-b3e2-45948ae2fb99",
-			"name": "Testing",
+			"id": "2a3257eb-d20f-40fc-8616-061ea310f51b",
+			"name": "modified",
+			"description": null
+		},
+		{
+			"id": "2623a6f0-9821-4c88-96f0-246c05abc71d",
+			"name": "test",
 			"description": null
 		},
 		{
@@ -84,6 +99,21 @@
 		{
 			"id": "e9cac564-e239-46be-80c9-93747ac16d4c",
 			"name": "Testing",
+			"description": null
+		},
+		{
+			"id": "e5747784-9930-4a5b-8a50-e2dd7666299f",
+			"name": "TestNameUpdate",
+			"description": null
+		},
+		{
+			"id": "e1f65d2a-1be5-4e23-8eab-392f154aa53f",
+			"name": "Test2",
+			"description": null
+		},
+		{
+			"id": "874ca8dc-5f01-4138-b74e-ec250d56b212",
+			"name": "TestMoveScriptFromGroup",
 			"description": null
 		},
 		{

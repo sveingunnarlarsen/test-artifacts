@@ -1,0 +1,20 @@
+{
+	"id": "d5831d1d-e6df-49c1-93c2-e345d3fadc8c",
+	"createdAt": "2023-01-17T13:36:48.275Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "Testing2",
+	"ver": "23.1.17.1436",
+	"description": null,
+	"content": "",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "874ca8dc-5f01-4138-b74e-ec250d56b212",
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

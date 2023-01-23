@@ -1,13 +1,13 @@
 {
-	"id": "b14539b7-d7ca-493c-948b-1dafa792a91a",
-	"createdAt": "2023-01-13T09:10:16.261Z",
-	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"id": "2a3257eb-d20f-40fc-8616-061ea310f51b",
+	"createdAt": "2023-01-22T16:28:20.133Z",
+	"createdBy": "gunnar",
 	"globalScripts": [],
 	"externalModules": [],
 	"entitySets": [],
 	"apis": [],
-	"name": "testLockedScript",
-	"ver": "23.1.16.1616",
+	"name": "modified",
+	"ver": "23.1.22.1732",
 	"description": null,
 	"content": "file:///content.script",
 	"useAsGlobalScript": false,
@@ -15,6 +15,6 @@
 	"lastRunSuccessful": false,
 	"isTypescript": false,
 	"language": "javascript",
-	"jsscriptGroup": "e9cac564-e239-46be-80c9-93747ac16d4c",
+	"jsscriptGroup": "e5747784-9930-4a5b-8a50-e2dd7666299f",
 	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
 }
