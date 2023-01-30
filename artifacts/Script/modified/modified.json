@@ -9,7 +9,7 @@
 	"name": "modified",
 	"ver": "23.1.22.1732",
 	"description": null,
-	"content": "file:///content.script",
+	"content": "file:///content.js",
 	"useAsGlobalScript": false,
 	"transpiledContent": null,
 	"lastRunSuccessful": false,

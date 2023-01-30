@@ -64,6 +64,27 @@
 									"data": []
 								}
 							]
+						},
+						{
+							"fieldNo": "067e60ad-41be-4a12-b63e-6e3c2b0cbd44",
+							"fieldName": "oLabel",
+							"fieldParent": "c86b367f-17b6-459f-c760-08184306ed9c",
+							"fieldType": "sap.m.Label",
+							"script": "",
+							"customComponent": false,
+							"disabled": true,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "asdfasdf {/test}",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
 						}
 					]
 				}
@@ -110,7 +131,7 @@
 					"fieldName": "oTypescript",
 					"fieldParent": 99999,
 					"fieldType": "neptune.Typescript",
-					"script": "file://script/neptune.Typescript/oTypescript.script",
+					"script": "file://script/neptune.Typescript/oTypescript.ts",
 					"customComponent": false,
 					"request": [],
 					"response": [],

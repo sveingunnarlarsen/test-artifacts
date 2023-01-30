@@ -25,7 +25,7 @@
 					"fieldName": "oTypescript",
 					"fieldParent": 99999,
 					"fieldType": "neptune.Typescript",
-					"script": "apioRestAPI();",
+					"script": "file://script/neptune.Typescript/oTypescript.ts",
 					"customComponent": false,
 					"request": [],
 					"response": [],
@@ -40,7 +40,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "22.12.20.218",
+	"ver": "23.1.23.1116",
 	"application": "babi_user_details",
 	"title": "",
 	"description": "",

@@ -24,7 +24,7 @@
 					"attribute": "press",
 					"grouping": "Events",
 					"value": "Anonymous Function",
-					"script": "file://event/sap.m.Button/oButton/press.script",
+					"script": "file://event/sap.m.Button/oButton/press.ts",
 					"language": "typescript",
 					"translation": []
 				}
