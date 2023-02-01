@@ -60,11 +60,6 @@
 	"dictionary": [],
 	"jsclass": [
 		{
-			"id": "e358dfd4-043f-47e9-8362-8c9da893e888",
-			"name": "test",
-			"description": null
-		},
-		{
 			"id": "d5831d1d-e6df-49c1-93c2-e345d3fadc8c",
 			"name": "Testing2",
 			"description": null
@@ -77,6 +72,11 @@
 		{
 			"id": "93162f79-2a91-49ac-b3e2-45948ae2fb99",
 			"name": "Testing",
+			"description": null
+		},
+		{
+			"id": "814548ec-6903-4f37-ae53-fa1ab33367e0",
+			"name": "testrestore",
 			"description": null
 		},
 		{
@@ -160,7 +160,13 @@
 	"doc": [],
 	"wf_notifications": [],
 	"department": [],
-	"script_scheduler": [],
+	"script_scheduler": [
+		{
+			"id": "06968213-5f57-4a62-ac7e-841c5c4326f1",
+			"name": "TestNoRuntimeData",
+			"description": null
+		}
+	],
 	"wf_definition": [
 		{
 			"id": "4f6ef01d-fa65-4d63-bb77-a512e3b3a125",

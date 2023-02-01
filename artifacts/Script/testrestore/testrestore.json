@@ -1,0 +1,20 @@
+{
+	"id": "814548ec-6903-4f37-ae53-fa1ab33367e0",
+	"createdAt": "2023-02-01T07:49:56.950Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "testrestore",
+	"ver": "23.2.1.850",
+	"description": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "e1f65d2a-1be5-4e23-8eab-392f154aa53f",
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}
