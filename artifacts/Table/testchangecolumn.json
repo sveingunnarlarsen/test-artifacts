@@ -1,0 +1,23 @@
+{
+	"id": "b983a50e-2a30-4b05-810f-80a09ab79645",
+	"createdAt": "2023-02-15T08:24:51.770Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"fields": [
+		{
+			"id": "0deb3f2b-52c0-49ba-8bcf-05f4b8c32b20",
+			"fieldName": "text",
+			"fieldType": "mediumtext",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "testchangecolumn",
+	"description": null,
+	"ver": "23.2.15.925",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef",
+	"rolesRead": [],
+	"rolesWrite": []
+}

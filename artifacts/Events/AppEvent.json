@@ -1,0 +1,15 @@
+{
+	"id": "88158193-ebe5-4993-aa6f-cfa0f463b85b",
+	"createdAt": "2023-02-04T12:17:19.866Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"name": "AppEvent",
+	"description": "Testing",
+	"eventAction": "AppEvent",
+	"scriptId": null,
+	"jobId": null,
+	"workflowId": null,
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef",
+	"script": null,
+	"job": null,
+	"workflow": null
+}

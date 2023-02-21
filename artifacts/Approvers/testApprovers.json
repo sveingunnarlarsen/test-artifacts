@@ -1,0 +1,20 @@
+{
+	"id": "e39d9496-eb08-475d-8591-bdce7ad4d681",
+	"createdAt": "2023-02-21T12:13:19.743Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"items": [
+		{
+			"id": "45d0443b-e0ca-40d4-e6cf-204d265b708b",
+			"orgUnit": "U",
+			"orgValue": "gunnar",
+			"amountFrom": 0,
+			"amountTo": 0,
+			"operation": "O",
+			"taskType": [],
+			"orgId": "38b31670-680f-43b3-b384-c4396da4525e"
+		}
+	],
+	"name": "testApprovers",
+	"description": "Testing",
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

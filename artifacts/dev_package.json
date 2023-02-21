@@ -7,7 +7,7 @@
 	},
 	"name": "Testing",
 	"description": null,
-	"ver": "23.1.10.158",
+	"ver": "23.2.21.1318",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -57,16 +57,22 @@
 	],
 	"odataSource": [],
 	"odataMock": [],
-	"dictionary": [],
+	"dictionary": [
+		{
+			"id": "b983a50e-2a30-4b05-810f-80a09ab79645",
+			"name": "testchangecolumn",
+			"description": null
+		}
+	],
 	"jsclass": [
 		{
-			"id": "d5831d1d-e6df-49c1-93c2-e345d3fadc8c",
-			"name": "Testing2",
+			"id": "e701f36d-553c-4aba-ba94-d4778e696ec8",
+			"name": "crashServer",
 			"description": null
 		},
 		{
-			"id": "b264170f-8028-49a5-b1ac-2f8d52c82b98",
-			"name": "subs",
+			"id": "d5831d1d-e6df-49c1-93c2-e345d3fadc8c",
+			"name": "Testing2",
 			"description": null
 		},
 		{
@@ -109,6 +115,11 @@
 		{
 			"id": "e1f65d2a-1be5-4e23-8eab-392f154aa53f",
 			"name": "Test2",
+			"description": null
+		},
+		{
+			"id": "abc31e0d-a059-4ec5-a2ff-82d5b83b875c",
+			"name": "CrashServer",
 			"description": null
 		},
 		{
@@ -175,6 +186,32 @@
 		}
 	],
 	"connector": [],
-	"events": [],
-	"media_library": []
+	"events": [
+		{
+			"id": "9f6f87cc-e78e-462f-b755-4ca1db2dbf15",
+			"name": "StartScript",
+			"description": null
+		},
+		{
+			"id": "88158193-ebe5-4993-aa6f-cfa0f463b85b",
+			"name": "AppEvent",
+			"description": "Testing"
+		}
+	],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [
+		{
+			"id": "e39d9496-eb08-475d-8591-bdce7ad4d681",
+			"name": "testApprovers",
+			"description": "Testing"
+		}
+	],
+	"wf_taskaction": [
+		{
+			"id": "55b11d61-698b-4f4f-9733-2e452d0cd191",
+			"name": "TestTaskAction",
+			"description": "Testing"
+		}
+	]
 }

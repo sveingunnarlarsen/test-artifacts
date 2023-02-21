@@ -1,0 +1,19 @@
+{
+	"id": "9f6f87cc-e78e-462f-b755-4ca1db2dbf15",
+	"createdAt": "2023-02-04T12:16:55.100Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"name": "StartScript",
+	"description": null,
+	"eventAction": "ScriptEvent",
+	"scriptId": "814548ec-6903-4f37-ae53-fa1ab33367e0",
+	"jobId": null,
+	"workflowId": null,
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef",
+	"script": {
+		"id": "814548ec-6903-4f37-ae53-fa1ab33367e0",
+		"name": "testrestore",
+		"ver": "23.2.1.850"
+	},
+	"job": null,
+	"workflow": null
+}

@@ -65,6 +65,7 @@
 	"ui5_url": "",
 	"cus_theme": "",
 	"css": "",
+	"compiledCss": null,
 	"header": "",
 	"manifest": "",
 	"globalScript": null,
@@ -76,6 +77,8 @@
 	"ui5_ionic": false,
 	"useV2AppHandler": false,
 	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
 	"apis": [
 		{
 			"id": "e25c6670-0761-4a3b-991d-9f0226d1b191",

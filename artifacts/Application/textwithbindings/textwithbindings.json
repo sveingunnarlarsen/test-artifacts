@@ -171,6 +171,7 @@
 	"ui5_url": "",
 	"cus_theme": "",
 	"css": "",
+	"compiledCss": null,
 	"header": "",
 	"manifest": "",
 	"globalScript": null,
@@ -182,6 +183,8 @@
 	"ui5_ionic": false,
 	"useV2AppHandler": false,
 	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
 	"apis": [],
 	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
 }
