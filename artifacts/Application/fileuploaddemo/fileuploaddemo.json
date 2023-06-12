@@ -1,0 +1,169 @@
+{
+	"id": "e51f824d-c71a-4680-a735-48bb66982159",
+	"createdAt": "2023-05-15T14:12:43.947Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "bf961e09-1ed2-4458-b966-455826b2de50",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "97e73df0-d7d8-41ca-efec-a34c7938de6d",
+					"fieldName": "Page",
+					"fieldParent": "bf961e09-1ed2-4458-b966-455826b2de50",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "Upload",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "00784395-1dda-4a3e-f78f-c298f37947f9",
+							"fieldName": "SimpleForm",
+							"fieldParent": "97e73df0-d7d8-41ca-efec-a34c7938de6d",
+							"fieldType": "sap.ui.layout.form.SimpleForm",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": [
+								{
+									"fieldNo": "846dc66a-8fd5-4b58-9083-39305c287d28",
+									"fieldName": "Button",
+									"fieldParent": "00784395-1dda-4a3e-f78f-c298f37947f9",
+									"fieldType": "sap.m.Button",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "TEST",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "press",
+											"grouping": "Events",
+											"value": "$('#fileImporter').click();",
+											"script": "$('#fileImporter').click();",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": "1dca936c-2882-4bc0-f92d-d166906b8e7b",
+			"fieldName": "oHTMLUpload",
+			"fieldParent": 0,
+			"fieldType": "sap.ui.core.HTML",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "090d4d0f-c165-4299-dada-dce661a183ac",
+					"fieldName": "oHTMLCode",
+					"fieldParent": "1dca936c-2882-4bc0-f92d-d166906b8e7b",
+					"fieldType": "neptune.Html",
+					"script": "file://script/neptune.Html/oHTMLCode.script",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "0f790386-3f78-426b-b540-b980d3ab1b75",
+					"fieldName": "Javascript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/Javascript.js",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "23.5.15.1630",
+	"application": "fileuploaddemo",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"apis": [],
+	"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+}

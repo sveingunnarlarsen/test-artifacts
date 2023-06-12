@@ -1,0 +1,9 @@
+<input
+    name="fileImporter"
+    accept="."
+    id="fileImporter"
+    type="file"
+    onchange="importDeploymenFile(event)"
+    style="display:none;"
+    value=""
+/>

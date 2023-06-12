@@ -7,7 +7,7 @@
 	},
 	"name": "Testing",
 	"description": null,
-	"ver": "23.2.21.1318",
+	"ver": "23.5.4.91",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -31,6 +31,12 @@
 		{
 			"id": "e8aeba45-5bd4-4519-96ec-227e3cff69a7",
 			"application": "babi_user_details",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "e51f824d-c71a-4680-a735-48bb66982159",
+			"application": "fileuploaddemo",
 			"title": "",
 			"description": ""
 		},
@@ -198,7 +204,15 @@
 			"description": "Testing"
 		}
 	],
-	"media_library": [],
+	"media_library": [
+		{
+			"id": "c7c3832e-f44c-4245-b70d-e61fcc3b7aab",
+			"updatedAt": "2023-06-12T09:12:20.617Z",
+			"name": "afconnector",
+			"parent": null,
+			"package": "015382f5-cc2a-4a96-83ec-093fac365bef"
+		}
+	],
 	"code_snippets": [],
 	"wf_determination": [
 		{
@@ -211,7 +225,7 @@
 		{
 			"id": "55b11d61-698b-4f4f-9733-2e452d0cd191",
 			"name": "TestTaskAction",
-			"description": "Testing"
+			"description": "Testingadassdasdasdasd"
 		}
 	]
 }
