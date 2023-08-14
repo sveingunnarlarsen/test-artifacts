@@ -15,3 +15,6 @@ async function importDeploymenFile(evt) {
 }
 
 window.importDeploymenFile = importDeploymenFile;
+
+
+console.log('test');
