@@ -28,7 +28,7 @@
 	"ui5Theme": null,
 	"header": null,
 	"customTheme": null,
-	"isExternal": null,
+	"isExternal": false,
 	"emailPattern": null,
 	"loginApp": null,
 	"enableNotifications": false,

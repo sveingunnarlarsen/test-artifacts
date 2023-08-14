@@ -23,7 +23,7 @@
 	"intervalSeconds": null,
 	"maxRuntimeSeconds": "0",
 	"restartMaxRuntimeAbort": false,
-	"startdate": "2023-01-30T14:08:34.354Z",
+	"startdate": "2023-01-30T14:08:34.000Z",
 	"stopdate": "9999-12-31T00:00:00.000Z",
 	"executeInNextCycle": false,
 	"ver": "23.1.30.1651",
