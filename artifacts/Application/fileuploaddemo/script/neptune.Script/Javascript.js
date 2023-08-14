@@ -18,3 +18,5 @@ window.importDeploymenFile = importDeploymenFile;
 
 
 console.log('test');
+
+console.log('test2');
