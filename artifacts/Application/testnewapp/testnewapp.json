@@ -4,6 +4,26 @@
 	"createdBy": "svein.gunnar.larsen@neptune-software.com",
 	"objects": [
 		{
+			"fieldNo": "103bd4d3-2c9c-4628-9351-4bf753f0bb37",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "afterNavigate",
+					"grouping": "Events",
+					"value": "Anonymous Function",
+					"script": "file://event/sap.m.App/App/afterNavigate.script",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
 			"fieldNo": 99999,
 			"data": [
 				{
@@ -12,6 +32,18 @@
 					"fieldParent": 99999,
 					"fieldType": "neptune.Typescript",
 					"script": "file://script/neptune.Typescript/Typescript.ts",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "fd882faa-dfa4-4786-9b56-8f8e9e3f8a0f",
+					"fieldName": "Typescript1",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/Typescript1.ts",
 					"customComponent": false,
 					"request": [],
 					"response": [],
@@ -26,7 +58,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.9.4.1836",
+	"ver": "23.9.4.2037",
 	"application": "testnewapp",
 	"title": "",
 	"description": "",
@@ -39,7 +71,7 @@
 	"loadLaunchpadCode": null,
 	"loadApplicationCode": null,
 	"appType": "A",
-	"ui5_m": false,
+	"ui5_m": true,
 	"ui5_f": false,
 	"ui5_table": false,
 	"ui5_tnt": false,
